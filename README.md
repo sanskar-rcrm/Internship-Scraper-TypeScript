@@ -1,0 +1,1 @@
+# Internship-Scraper-TypeScript
